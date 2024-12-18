@@ -78,11 +78,11 @@ export default function SkillDetails() {
             The frontend world opened up, and I learned to create responsive, interactive user interfaces.
           </p>
           <p>
-            But I didn't stop there. I went into backend development, learning Node.js. 
+            But I didn&apos;t stop there. I went into backend development, learning Node.js. 
             This full-stack knowledge allowed me to build complete web applications from the ground up.
           </p>
           <p>
-            Along the way, I've worked on numerous projects, collaborated with talented developers, and constantly 
+            Along the way, I&apos;ve worked on numerous projects, collaborated with talented developers, and constantly 
             pushed myself to learn new technologies and best practices. This journey has not only made me a skilled 
             developer but also instilled in me a passion for creating efficient, user-friendly web solutions.
           </p>

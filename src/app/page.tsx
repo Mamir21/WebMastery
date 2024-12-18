@@ -28,7 +28,7 @@ export default function Home() {
             Why Web Development Matters
           </h2>
           <p className="text-gray-600 mb-6 leading-relaxed">
-            In today's digital age, web development is more crucial than ever. It’s the backbone of our online experiences, 
+            In today&apos;s digital age, web development is more crucial than ever. It&rsquo;s the backbone of our online experiences, 
             powering everything from social media platforms to e-commerce sites and beyond.
           </p>
           <ul className="list-disc list-inside text-gray-700 space-y-2">
